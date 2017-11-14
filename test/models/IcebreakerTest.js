@@ -3,7 +3,7 @@
 const { expect } = require('chai');
 
 const Icebreaker = require('../../models/Icebreaker');
-const Question = require('../../models/Question');
+//const Question = require('../../models/Question');
 
 describe('Icebreaker', () => {
   it("is exported into modules so it can be loaded here", () => {
